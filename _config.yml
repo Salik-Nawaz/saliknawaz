@@ -34,7 +34,8 @@ author:
   mobile: "+49(0)15901376676"
   location: "Paderborn, Germany"
   #avatar: "/assets/images/profile.jpg"
-  photo: "/assets/images/profile03.jpg" 
+  #photo: "/assets/images/profile03.jpg"
+  photo: "/saliknawaz/assets/images/profile03.jpg"
   links:
     - label: "LinkedIn"
       url: "https://www.linkedin.com/in/salik-nawaz-318699156/"
