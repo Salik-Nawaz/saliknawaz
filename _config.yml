@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-baseurl: "/saliknawaz"
-url: "https://salik-nawaz.github.io"
+#baseurl: "/saliknawaz"
+#url: "https://salik-nawaz.github.io"
 
 include:
   - assets
@@ -41,10 +41,9 @@ author:
     - label: "GitHub"
       url: "https://salik-nawaz.github.io/saliknawaz/"
     - label: "CV (English)"
-      url: "{{ site.baseurl }}/assets/cv/CV_Salik_Nawaz_English.pdf"
+      url: "https://salik-nawaz.github.io/saliknawaz/assets/cv/CV_Salik_Nawaz_English.pdf"
     - label: "CV (Deutsch)"
-      url: "{{ site.baseurl }}/assets/cv/CV_Salik_Nawaz_Deutsch.pdf"
-
+      url: "https://salik-nawaz.github.io/saliknawaz/assets/cv/CV_Salik_Nawaz_Deutsch.pdf"
 
 #title: "Salik Nawaz"
 #tagline: "Photonic Specialist"
