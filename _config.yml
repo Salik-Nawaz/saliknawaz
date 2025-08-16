@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 baseurl: "/saliknawaz"
-#url: "https://salik-nawaz.github.io"  # change after you push
+url: "https://salik-nawaz.github.io"
 
 include:
   - assets
