@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "My Journey in Optoelectronics & Photonics"
-date:   2025-08-13 12:20:53 +0200
 categories: career photonics optoelectronics
 ---
 From my early academic days to my professional work in cleanroom fabrication, my journey in **optoelectronics, photonics, and artificial intelligence (AI)** has been driven by curiosity, precision, and a passion for innovation.

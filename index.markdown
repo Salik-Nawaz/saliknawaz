@@ -12,13 +12,15 @@ title: "Hi, I'm Salik Nawaz"
 Welcome! I'm an Photonic Specialist with experience in desiginig, cleanroom fabrication, characterization and optimization of quantum-photonics components.
 
 ## Professional Summary
-- Photonic Specialist with 3+ years of experience in designing, fabricating, and characterizing active and passive
-photonic integrated circuits (PICs) for quantum computing and communication applications.
-- Proficient in Matlab, C++, and Python for simulation, data analysis, and device modeling.
-- Experienced with agile methodologies and collaborative research environments.
-- Passionate about developing energy-efficient, scalable photonic devices for research and industrial use.
-- Currently focused on machine learning applications in photonic systems, with a strong command of Python and
-PyTorch.
+I am a Photonic Specialist with over 3 years of experience in optoelectronics, photonics, and cleanroom-based fabrication. My expertise spans the design, fabrication, and optimization of nanochip components for quantum technology applications.
+
+- Skilled in VCSELs, integrated photonics, and laser-based systems
+- Hands-on experience in cleanroom micro- and nanofabrication processes
+- Strong background in optoelectronic device testing and characterization
+- Proficient in Matlab, C++, and Python for simulation, data analysis, and device modeling
+- Actively expanding skills in machine learning applications for photonics and system optimization
+
+I combine practical laboratory expertise with computational methods to deliver innovative solutions bridging photonics and emerging technologies.
 
 ## Experience
 **Research Assistant** - CeOPP, German
